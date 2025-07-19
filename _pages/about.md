@@ -2,17 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.simis.cn/'>Shanghai Institute for Mathematics and Interdisciplinary Sciences, Fudan University</a>. <br> "人生自古谁无死，留取丹心照汗青".
+subtitle: <span style="font-family: 'STKaiti', 'KaiTi', 'SimKai', cursive;">人生自古谁无死，留取丹心照汗青</span>
 
 profile:
   align: right
   image: tanbw24_cube.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>25114020015 AT m.fudan.edu.cn</p>
-    <p>No. 657 Songhu Road, Yangpu District</p>
-    <p>Shanghai, China</p>
-
+  
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,7 +23,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Bowen Tan is currently pursuing a Ph.D. at the <a href='https://www.simis.cn/'>Shanghai Institute for Mathematics and Interdisciplinary Sciences, Fudan University</a>. He holds an M.Phil. in Internet of Things from The Hong Kong University of Science and Technology (Guangzhou), supervised by <a href='https://personal.hkust-gz.edu.cn/yingcui/index.html'>Prof. Ying Cui</a>) and a B.S. in Statistics from Nankai University, supervised by <a href='https://my.nankai.edu.cn/stat/hg/list.htm'>Prof. Gang Hu</a>). His primary research interests include optimization and machine learning. His research has been published in journals and conferences such as IEEE Trans. Commun., IEEE GLOBECOM, and IEEE ICC.
+Welcome to my homepage! I am currently pursuing a Ph.D. at the <a href='https://www.simis.cn/'>Shanghai Institute for Mathematics and Interdisciplinary Sciences</a> at Fudan University. My primary research interests lie in optimization and machine learning.
+
+I obtained an M.Phil. in Internet of Things from <a href='https://www.hkust-gz.edu.cn/
+'>The Hong Kong University of Science and Technology (Guangzhou)</a> in 2024, supervised by <a href='https://personal.hkust-gz.edu.cn/yingcui/index.html'>Prof. Ying Cui</a>. Prior to that, I received a B.S. in Statistics from <a href='https://en.nankai.edu.cn/
+'>Nankai University</a> in 2022, supervised by <a href='https://my.nankai.edu.cn/stat/hg/list.htm'>Prof. Gang Hu</a>. My research has been published in journals and conferences such as IEEE Trans. Commun., IEEE GLOBECOM, and IEEE ICC, etc.
+
+Email: 25114020015 [At] m [Dot] fudan [Dot] edu [Dot] cn
+Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
 
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
