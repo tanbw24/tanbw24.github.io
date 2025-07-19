@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="font-family: 'STKaiti', 'KaiTi', 'SimKai', cursive;">人生自古谁无死，留取丹心照汗青</span>
 
 profile:
   align: right
