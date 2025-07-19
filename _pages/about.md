@@ -28,8 +28,9 @@ I obtained an M.Phil. in Internet of Things from <a href='https://www.hkust-gz.e
 '>The Hong Kong University of Science and Technology (Guangzhou)</a> in 2024, supervised by <a href='https://personal.hkust-gz.edu.cn/yingcui/index.html'>Prof. Ying Cui</a>. Prior to that, I received a B.S. in Statistics from <a href='https://en.nankai.edu.cn/
 '>Nankai University</a> in 2022, supervised by <a href='https://my.nankai.edu.cn/stat/hg/list.htm'>Prof. Gang Hu</a>. My research has been published in journals and conferences such as IEEE Trans. Commun., IEEE GLOBECOM, and IEEE ICC, etc.
 
-Email: 25114020015 [At] m [Dot] fudan [Dot] edu [Dot] cn
-Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
+**Email:** 25114020015 [At] m [Dot] fudan [Dot] edu [Dot] cn
+
+**Address:** Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
 
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
