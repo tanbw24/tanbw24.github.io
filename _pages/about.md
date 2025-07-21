@@ -26,7 +26,7 @@ Welcome to my homepage! I am currently pursuing a Ph.D. at the <a href='https://
 
 I obtained an M.Phil. in Internet of Things from <a href='https://www.hkust-gz.edu.cn/
 '>The Hong Kong University of Science and Technology (Guangzhou)</a> in 2024, supervised by <a href='https://personal.hkust-gz.edu.cn/yingcui/index.html'>Prof. Ying Cui</a>. Prior to that, I received a B.S. in Statistics from <a href='https://en.nankai.edu.cn/
-'>Nankai University</a> in 2022, supervised by <a href='https://my.nankai.edu.cn/stat/hg/list.htm'>Prof. Gang Hu</a>. My research has been published in journals and conferences such as IEEE Trans. Commun., IEEE GLOBECOM, and IEEE ICC, etc.
+'>Nankai University</a> in 2022, supervised by <a href='https://my.nankai.edu.cn/stat/hg/list.htm'>Prof. Gang Hu</a>. My research has been published in journals and conferences such as IEEE Trans. Wireless Commun., IEEE GLOBECOM, and IEEE ICC, etc.
 
 **Email:** 25114020015 [At] m [Dot] fudan [Dot] edu [Dot] cn
 
