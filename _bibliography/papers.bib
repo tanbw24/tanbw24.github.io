@@ -3,15 +3,64 @@
 
 @string{aps = {American Physical Society,}}
 
-@ARTICLE{tan2025fast,
-  author={Tan, Bowen and Cui, Ying},
-  journal={IEEE Trans. Wireless Commun.},
-  title={Fast MLE and MAPE-Based Device Activity Detection for Grant-Free Access via PSCA and PSCA-Net},
-  year={2025},
-  month={Mar.},
-  volume={24},
-  number={6},
-  pages={5066-5083},
-  doi={10.1109/TWC.2025.3545649},
-  abstract={Fast and accurate device activity detection is the critical challenge in grant-free access for supporting massive machine-type communications (mMTC) and ultra-reliable low-latency communications (URLLC) in 5G and beyond. The state-of-the-art methods have unsatisfactory error rates or computation times. To address these outstanding issues, we propose new maximum likelihood estimation (MLE) and maximum a posterior estimation (MAPE) based device activity detection methods for known and unknown pathloss that achieve superior error rate and computation time tradeoffs using optimization and deep learning techniques. Specifically, we investigate four non-convex optimization problems for MLE and MAPE in the two pathloss cases, with one MAPE problem being formulated for the first time. For each non-convex problem, we develop an innovative parallel iterative algorithm using the parallel successive convex approximation (PSCA) method. Each PSCA-based algorithm allows parallel computations, uses up to the objective function’s second-order information, converges to the problem’s stationary points, and has a low per-iteration computational complexity compared to the state-of-the-art algorithms. Then, for each PSCA-based iterative algorithm, we present a deep unrolling neural network implementation, called PSCA-Net, to further reduce the computation time. Each PSCA-Net elegantly marries the underlying PSCA-based algorithm’s parallel computation mechanism with the parallelizable neural network architecture and effectively optimizes its step sizes based on vast data samples to speed up the convergence. Numerical results demonstrate that the proposed methods can significantly reduce the error rate and computation time compared to the state-of-the-art methods, revealing their significant values for grant-free access.}
-  }
+@article{tan2025fast,
+author ={Tan, Bowen and Cui, Ying},
+journal ={IEEE Trans. Wireless Commun.},
+abbr ={TWC},
+title ={Fast MLE and MAPE-Based Device Activity Detection for Grant-Free Access via PSCA and PSCA-Net},
+year ={2025},
+month ={Mar.},
+volume ={24},
+number ={6},
+pages ={5066-5083},
+doi ={10.1109/TWC.2025.3545649},
+selected ={true},
+preview={twc_system.png},
+abstract ={Fast and accurate device activity detection is the critical challenge in grant-free access for supporting massive machine-type communications (mMTC) and ultra-reliable low-latency communications (URLLC) in 5G and beyond. The state-of-the-art methods have unsatisfactory error rates or computation times. To address these outstanding issues, we propose new maximum likelihood estimation (MLE) and maximum a posterior estimation (MAPE) based device activity detection methods for known and unknown pathloss that achieve superior error rate and computation time tradeoffs using optimization and deep learning techniques. Specifically, we investigate four non-convex optimization problems for MLE and MAPE in the two pathloss cases, with one MAPE problem being formulated for the first time. For each non-convex problem, we develop an innovative parallel iterative algorithm using the parallel successive convex approximation (PSCA) method. Each PSCA-based algorithm allows parallel computations, uses up to the objective function’s second-order information, converges to the problem’s stationary points, and has a low per-iteration computational complexity compared to the state-of-the-art algorithms. Then, for each PSCA-based iterative algorithm, we present a deep unrolling neural network implementation, called PSCA-Net, to further reduce the computation time. Each PSCA-Net elegantly marries the underlying PSCA-based algorithm’s parallel computation mechanism with the parallelizable neural network architecture and effectively optimizes its step sizes based on vast data samples to speed up the convergence. Numerical results demonstrate that the proposed methods can significantly reduce the error rate and computation time compared to the state-of-the-art methods, revealing their significant values for grant-free access.}
+}
+
+@inproceedings{tan2024fast,
+title ={Fast MLE-based device activity detection for massive grant-free access via PSCA and PSCANet},
+author ={Tan, Bowen and Cui, Ying},
+abbr ={GLOBECOM},
+booktitle ={GLOBECOM 2024-2024 IEEE Global Communications Conference},
+pages ={4963--4968},
+year ={2024},
+month ={Dec.},
+organization ={IEEE},
+abstract ={Fast and accurate device activity detection is the critical challenge in grant-free access for supporting massive machine-type communications (mMTC). The state-of-the-art methods have an unsatisfactory error rate or computation time. To address these outstanding issues, we propose new maximum likelihood estimation (MLE)-based device activity detection methods that achieve superior tradeoffs between the error rate and computation time using optimization and deep learning techniques. Specifically, we propose an innovative parallel successive convex approximation (PSCA) algorithm for solving the noncon-vex MLE problem. We show that it allows parallel computations, uses up to the objective function’s second-order information, converges to the problem’s stationary points, and has a low per-iteration computational complexity compared to the state-of-the-art algorithms for the MLE problem. Then, we propose a PSCA-driven deep unrolling neural network implementation, called PSCANet, to reduce the overall computation time of PSCA. PSCANet elegantly marries PSCA’s parallel computation mechanism with the parallelizable neural network architecture and effectively optimizes its step sizes based on vast data samples. Numerical results demonstrate that PSCA and PSCANet can significantly reduce the error rate and computation time compared to the state-of-the-art methods, revealing their significant values for mMTC in 5G and beyond.}
+}
+
+@inbook{cui2024deep,
+author = {Cui, Ying and Tan, Bowen and Liu, Wang and Jiang, Wuyang},
+abbr = {NextGenMA},
+publisher = {John Wiley & Sons, Ltd},
+isbn = {9781394180523},
+title = {Deep Learning-Enabled Massive Access},
+booktitle = {Next Generation Multiple Access},
+chapter = {17},
+pages = {415-441},
+doi = {https://doi.org/10.1002/9781394180523.ch17},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394180523.ch17},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781394180523.ch17},
+year = {2024},
+keywords = {IoT, mMTC, grant-free access, device activity detection, channel estimation, pilot design, deep learning, neural networks, optimization},
+abstract = {Summary This chapter investigates deep learning-enabled massive grant-free access for supporting massive machine-type communications (mMTC) for the Internet of Things (IoT). First, existing deep learning-based activity detection and channel estimation methods for massive grant-free access are reviewed. Then, model-driven activity detection and channel estimation approaches are presented, followed by multiple instances. Next, an auto-encoder-based pilot design approach is presented, which can be used to design pilots for specific activity detection and channel estimation methods or to design pilots and activity detection and channel estimation methods jointly. These approaches greatly benefit from the underlying state-of-the-art activity detection and channel estimation methods with certain theoretical guarantees and effectively exploit activity and channel features from data samples. Finally, numerical results demonstrate significant gains of these proposed approaches over existing ones in accuracy and computation time.}
+}
+
+@article{
+liang2023sars,
+author = {Buwen Liang and Yiying Zhu and Wenhao Shi and Can Ni and Bowen Tan and Shaojun Tang },
+abbr = {Research},
+title = {SARS-CoV-2 Spike Protein Post-Translational Modification Landscape and Its Impact on Protein Structure and Function via Computational Prediction},
+journal = {Research},
+volume = {6},
+number = {},
+pages = {0078},
+year = {2023},
+month = {Mar.},
+doi = {10.34133/research.0078},
+URL = {https://spj.science.org/doi/abs/10.34133/research.0078},
+eprint = {https://spj.science.org/doi/pdf/10.34133/research.0078},
+abstract = {To elucidate the role of post-translational modifications (PTMs) in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein’s structure and virulence, we generated a high-resolution map of 87 PTMs using liquid chromatography with tandem mass spectrometry data on the extracted spike protein from SARS-CoV-2 virions and then reconstituted its structure heterogeneity caused by PTMs. Nonetheless, Alphafold2, a high-accuracy artificial intelligence tool to perform protein structure prediction, relies solely on primary amino acid sequence, whereas the impact of PTM, which often modulates critical protein structure and function, is much ignored. To overcome this challenge, we proposed the mutagenesis approach—an in silico, site-directed amino acid substitution to mimic the influence of PTMs on protein structure due to altered physicochemical properties in the post-translationally modified amino acids—and then reconstituted the spike protein’s structure from the substituted sequences by Alphafold2. For the first time, the proposed method revealed predicted protein structures resulting from PTMs, a problem that Alphafold2 has yet to address. As an example, we performed computational analyses of the interaction of the post-translationally modified spike protein with its host factors such as angiotensin-converting enzyme 2 to illuminate binding affinity. Mechanistically, this study suggested the structural analysis of post-translationally modified protein via mutagenesis and deep learning. To summarize, the reconstructed spike protein structures showed that specific PTMs can be used to modulate host factor binding, guide antibody design, and pave the way for new therapeutic targets. The code and Supplementary Materials are freely available at https://github.com/LTZHKUSTGZ/SARS-CoV-2-spike-protein-PTM.}
+}
