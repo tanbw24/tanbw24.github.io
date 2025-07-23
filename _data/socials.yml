@@ -46,6 +46,6 @@ scholar_userid: f-N6LWIAAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://github.com/tanbw24/tanbw24.github.io/blob/main/assets/img/xiaohongshu.png # can be png, svg, jpg
+  logo: https://raw.githubusercontent.com/tanbw24/tanbw24.github.io/refs/heads/main/assets/img/xiaohongshu.png # can be png, svg, jpg
   title: xiaohongshu
   url: https://www.xiaohongshu.com/user/profile/6423b4fc000000001201060e
