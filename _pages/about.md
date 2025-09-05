@@ -22,7 +22,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to my homepage! I am currently pursuing a Ph.D. at the <a href='https://www.simis.cn/'>Shanghai Institute for Mathematics and Interdisciplinary Sciences</a> at Fudan University. My primary research interests lie in optimization and machine learning.
+Welcome to my homepage! I am currently pursuing a Ph.D. at the <a href='https://www.simis.cn/'>Shanghai Institute for Mathematics and Interdisciplinary Sciences</a> at Fudan University, supervised by <a href='https://www.acem.sjtu.edu.cn/faculty/gedongdong.html'>Prof. Dongdong Ge</a>. My primary research interests lie in optimization and machine learning.
 
 I obtained an M.Phil. in Internet of Things from <a href='https://www.hkust-gz.edu.cn/
 '>The Hong Kong University of Science and Technology (Guangzhou)</a> in 2024, supervised by <a href='https://personal.hkust-gz.edu.cn/yingcui/index.html'>Prof. Ying Cui</a>. Prior to that, I received a B.S. in Statistics from <a href='https://en.nankai.edu.cn/
